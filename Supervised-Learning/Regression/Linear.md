@@ -1,22 +1,7 @@
 # Regression
 Regression in machine learning is a supervised learning technique used to predict continuous, numerical output values (e.g., prices, temperature, sales) based on the relationship between input features (independent variables) and a target variable (dependent variable).
 
-Understood. We’ll **stop adding features** and instead **close the project properly**.
 
-Below is a **complete, clean technical report** that explains:
-
-* what you built
-* why the first model failed
-* how you improved it
-* how the evaluation metrics changed
-* what the final results mean
-
-You can use this:
-
-* directly in your notebook as Markdown
-* or adapt it for a README / report submission
-
----
 
 # 📊 Semiconductor Stock Price Forecasting Using Linear Regression
 
